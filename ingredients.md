@@ -7,3 +7,5 @@
 - Olive oil
 - Salt
 - Black pepper
+- Garlic
+- Cheese
