@@ -3,7 +3,7 @@
 # recipe
 
 line 2 changed remotely
-Ingredients and instructions are included below.
+**Ingredients and instructions are included below.**
 
 ### Ingredients
 - Flour
